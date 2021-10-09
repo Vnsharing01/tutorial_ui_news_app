@@ -1,6 +1,8 @@
 # tutorial_ui_news_app
 
-A new Flutter project.
+luyện tập vẽ ui app đọc báo đơn giản. 
+nguồn : https://www.youtube.com/watch?v=KXte0t6OIOM&list=PLMBao85p-vf7WTqiS996436eZ-gSWYd5B&index=2&t=1060s&ab_channel=CodingDesires
+
 
 ## Getting Started
 

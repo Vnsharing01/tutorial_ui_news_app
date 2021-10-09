@@ -28,7 +28,6 @@ class NewsCarouselView extends StatelessWidget {
                   Container(
                     width: double.infinity,
                     height: 250,
-                    margin: const EdgeInsets.symmetric(horizontal: 5),
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(20),
                       gradient: LinearGradient(
